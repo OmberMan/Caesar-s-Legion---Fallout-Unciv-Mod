@@ -6,7 +6,7 @@
 		"startBias": ["Avoid Coast", "Avoid Jungle"],
 		"preferredVictoryType": "Dominatiom",
 		"style": "Barbarian",
-"personality": "Hegaliam Dabadonktics",
+"personality": "Hegalian Dabadonktics",
 
 		"startIntroPart1": "Aretas, King of the Nabataeans, Friend of his People, your rule was the zenith of the Nabataean civilization as your capital, Petra was one of the largest economical hubs and cities in the world at that time. Art and culture flourished while under your rule, and the culture that has grown during your rule is still being felt till today. Can you once again strike the world in awe with your culture? Can you create an economy that can eclipse your last achievements? Can you build a civilization that will stand the test of time?",
 
@@ -26,7 +26,7 @@
 		"uniqueName": "Render Unto Caesar",
 		"uniques": ["[+100]% [Production] from every [{Desert} {Hill}]", "[+1] [Food] from every [Desert] <in tiles without [Flood plains]> <in tiles without [Hill]>",
 			    "No Maintenance costs for improvements in [Desert] tiles", "Provides a [Architectural Ingenuity] in your first [1] cities for free <upon building a [Great] improvement>"]
-		"cities": ["Phoenix","Flagstaff","Two Sun","Dog Town","Sela","Madain Saleh","Dumatha","Aila","Jauf","Rekem",
+		"cities": ["Phoenix","Flagstaff","Two Sun","Dog City","Blackfoot","The Twin Mothers","The Reservation","Aila","Jauf","Rekem",
 			"Raqmu","Oboda","Hijr","Egra","Kadesh","Humeima","Philoteria","Al-`Ula","Gerasa","Gaulane",
 			"Rabathmoba","Zoara","Mecca","Dedan","Edom","Moab","Tafila","Amman","Yotvata","Humayma",
 			"Tayma","Tabuk","Wadi Rum","Qasr al-Bint","Mampsis","Kurnub","Halasa","Aslah","Jauf","Negev",
